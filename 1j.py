@@ -22,3 +22,7 @@ plt.ylabel("P")
 
 plt.show()
 
+"""
+Gracias a la gráfica en la que se muestra el error que depende de h y dadas las variaciones analizadas
+se puede observar que entre menor sea el tamañno del paso h, menor es el error
+"""
